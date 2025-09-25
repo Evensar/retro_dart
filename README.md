@@ -17,8 +17,8 @@ En interaktiv webbapplikation för team-retrospektiv där deltagare kan placera 
 
 1. **Klona projektet**
    ```bash
-   git clone https://github.com/[ditt-användarnamn]/retro-target.git
-   cd retro-target
+   git clone https://github.com/evensar/retro_dart.git
+   cd retro_dart
    ```
 
 2. **Installera dependencies**
@@ -61,7 +61,7 @@ npm run build
 
 3. **Din app kommer att vara tillgänglig på:**
    ```
-   https://[ditt-användarnamn].github.io/retro-target
+   https://evensar.github.io/retro_dart
    ```
 
 ### Manuell deployment
